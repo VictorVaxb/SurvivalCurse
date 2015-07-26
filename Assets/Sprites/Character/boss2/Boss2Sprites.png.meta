@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 5410bf74809e53e4992e21f839038dfd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss2Sprites
+    21300002: head
+    21300004: mandibula
+    21300006: arm1
+    21300008: hombro
+    21300010: hand
+    21300012: arm3
+    21300014: arm2
+    21300016: bigPart
+    21300018: part1
+    21300020: part2
+    21300022: part3
+    21300024: Boss2Sprites_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 110
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1059
+        width: 407
+        height: 406
+      alignment: 9
+      pivot: {x: .784683466, y: .366664648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mandibula
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 857
+        width: 327
+        height: 145
+      alignment: 9
+      pivot: {x: .942943513, y: .892586529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1022
+        width: 217
+        height: 386
+      alignment: 9
+      pivot: {x: .310123295, y: .820232809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hombro
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 409
+        width: 209
+        height: 328
+      alignment: 9
+      pivot: {x: .419107169, y: .769617617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hand
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 114
+        width: 379
+        height: 154
+      alignment: 9
+      pivot: {x: .951231956, y: .719566226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 153
+        width: 235
+        height: 110
+      alignment: 9
+      pivot: {x: .85418129, y: .748278975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arm2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 431
+        width: 162
+        height: 443
+      alignment: 9
+      pivot: {x: .412751377, y: .893504381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bigPart
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 894
+        width: 712
+        height: 521
+      alignment: 9
+      pivot: {x: .853690147, y: .372321486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: part1
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 563
+        width: 471
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: part2
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 144
+        width: 504
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: part3
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 291
+        width: 331
+        height: 550
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boss2Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 40
+        width: 163
+        height: 122
+      alignment: 9
+      pivot: {x: .040313907, y: .0699744746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

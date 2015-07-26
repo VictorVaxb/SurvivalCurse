@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: c7593bfd2aeb12a438b151b8c63b6435
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: windowSprites
+    21300002: windowSprites_0
+    21300004: windowSprites_1
+    21300006: windowSprites_2
+    21300008: windowSprites_3
+    21300010: windowSprites_4
+    21300012: windowSprites_5
+    21300014: windowSprites_6
+    21300016: windowSprites_7
+    21300018: windowSprites_8
+    21300020: windowSprites_9
+    21300022: windowSprites_10
+    21300024: windowSprites_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: windowSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 203
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 402
+        width: 202
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 402
+        width: 207
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 402
+        width: 206
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 203
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 200
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 200
+        width: 207
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 200
+        width: 206
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 203
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 202
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 207
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windowSprites_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 206
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

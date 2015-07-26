@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: e051d1cedf95e244e874c9e3d4a470e7
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: doorBathSprites_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 359
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_1
+      rect:
+        serializedVersion: 2
+        x: 193.199997
+        y: 359
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .500000119, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_2
+      rect:
+        serializedVersion: 2
+        x: 369.100006
+        y: 359
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_3
+      rect:
+        serializedVersion: 2
+        x: 547.900024
+        y: 359
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_4
+      rect:
+        serializedVersion: 2
+        x: 734.799988
+        y: 359
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 20.7999992
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_6
+      rect:
+        serializedVersion: 2
+        x: 550.400024
+        y: 20.7999992
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_7
+      rect:
+        serializedVersion: 2
+        x: 369.600006
+        y: 20.7999992
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_8
+      rect:
+        serializedVersion: 2
+        x: 192.399994
+        y: 20.7999992
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: doorBathSprites_9
+      rect:
+        serializedVersion: 2
+        x: 16.7000008
+        y: 20.7999992
+        width: 168
+        height: 322
+      alignment: 0
+      pivot: {x: .49999997, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

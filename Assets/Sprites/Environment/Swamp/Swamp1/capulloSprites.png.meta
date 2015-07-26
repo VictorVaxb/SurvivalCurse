@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 6e63c3bea263e8a4db9ac036b2207b0a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: capulloSprites
+    21300002: 0
+    21300004: 1
+    21300006: 2
+    21300008: 3
+    21300010: 4
+    21300012: 5
+    21300014: 6
+    21300016: 7
+    21300018: 8
+    21300020: 9
+    21300022: 10
+    21300024: 11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 140
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: 0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1393
+        width: 617
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1393
+        width: 615
+        height: 679
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1393
+        width: 614
+        height: 679
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1393
+        width: 616
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 701
+        width: 617
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 703
+        width: 613
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 700
+        width: 613
+        height: 680
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 7
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 700
+        width: 616
+        height: 681
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 613
+        height: 676
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 8
+        width: 611
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 10
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 9
+        width: 613
+        height: 676
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 11
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 8
+        width: 614
+        height: 677
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

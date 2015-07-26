@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 6a02a56ff11756d47b3e39749ef3fa9d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ramas1Up
+    21300002: ramas1Up_0
+    21300004: ramas1Up_1
+    21300006: ramas1Up_2
+    21300008: ramas1Up_3
+    21300010: ramas1Up_4
+    21300012: ramas1Up_5
+    21300014: ramas1Up_6
+    21300016: ramas1Up_7
+    21300018: ramas1Up_8
+    21300020: ramas1Up_9
+    21300022: ramas1Up_10
+    21300024: ramas1Up_11
+    21300026: ramas1Up_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ramas1Up_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 73
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 72
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 72
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 71
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_10
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_11
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ramas1Up_12
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2
+        width: 71
+        height: 300
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

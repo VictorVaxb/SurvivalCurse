@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 3f0647844eeb63f43bc68f246b6b37f6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: escaleraSprites
+    21300002: escaleraSprites_0
+    21300004: escaleraSprites_1
+    21300006: escaleraSprites_2
+    21300008: escaleraSprites_3
+    21300010: escaleraSprites_4
+    21300012: escaleraSprites_5
+    21300014: escaleraSprites_6
+    21300016: escaleraSprites_7
+    21300018: escaleraSprites_8
+    21300020: escaleraSprites_9
+    21300022: escaleraSprites_10
+    21300024: escaleraSprites_11
+    21300026: escaleraSprites_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: escaleraSprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1363
+        width: 480
+        height: 433
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1362
+        width: 480
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1361
+        width: 480
+        height: 435
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1361
+        width: 480
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 910
+        width: 480
+        height: 437
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 910
+        width: 480
+        height: 437
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 910
+        width: 482
+        height: 437
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_7
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 909
+        width: 481
+        height: 438
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 457
+        width: 482
+        height: 439
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 457
+        width: 483
+        height: 439
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_10
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 457
+        width: 482
+        height: 439
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_11
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 457
+        width: 483
+        height: 438
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: escaleraSprites_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 482
+        height: 439
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

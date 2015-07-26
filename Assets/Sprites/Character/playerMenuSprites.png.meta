@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: f85aa8ba24d5e6642b97c9e67500ddb9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerMenuSprites
+    21300002: playerMenuSprites_0
+    21300004: playerMenuSprites_1
+    21300006: playerMenuSprites_2
+    21300008: playerMenuSprites_3
+    21300010: playerMenuSprites_4
+    21300012: playerMenuSprites_5
+    21300014: playerMenuSprites_6
+    21300016: playerMenuSprites_7
+    21300018: playerMenuSprites_8
+    21300020: playerMenuSprites_9
+    21300022: playerMenuSprites_10
+    21300024: playerMenuSprites_11
+    21300026: playerMenuSprites_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: playerMenuSprites_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 296
+        width: 120
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 296
+        width: 120
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 296
+        width: 124
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 296
+        width: 127
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 296
+        width: 127
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 296
+        width: 127
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 11
+        width: 127
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 11
+        width: 127
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 11
+        width: 127
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_9
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 11
+        width: 127
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_10
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 11
+        width: 127
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 10
+        width: 127
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerMenuSprites_12
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 10
+        width: 127
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

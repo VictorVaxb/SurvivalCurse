@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 418a3a4c0e9204f45b5e4f784e8304e5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: brotherSprites
+    21300002: brotherSprites_0
+    21300004: brotherSprites_1
+    21300006: brotherSprites_2
+    21300008: brotherSprites_3
+    21300010: brotherSprites_4
+    21300012: brotherSprites_5
+    21300014: brotherSprites_6
+    21300016: brotherSprites_7
+    21300018: brotherSprites_8
+    21300020: brotherSprites_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: brotherSprites_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 410
+        width: 235
+        height: 316
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 407
+        width: 248
+        height: 316
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 414
+        width: 247
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_3
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 408
+        width: 251
+        height: 317
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_4
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 420
+        width: 243
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 58
+        width: 242
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 54
+        width: 261
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_7
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 55
+        width: 265
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_8
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 54
+        width: 272
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brotherSprites_9
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 43
+        width: 293
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

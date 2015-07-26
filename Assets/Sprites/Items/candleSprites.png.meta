@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 45edde72ba8515d4bb3f087bb183d709
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: candleSprites_0
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 486
+        width: 348
+        height: 457
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candleSprites_1
+      rect:
+        serializedVersion: 2
+        x: 4.69999981
+        y: 490.149994
+        width: 348
+        height: 457
+      alignment: 0
+      pivot: {x: .5, y: .50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candleSprites_2
+      rect:
+        serializedVersion: 2
+        x: 399.730011
+        y: 490.700012
+        width: 348
+        height: 457
+      alignment: 0
+      pivot: {x: .499999911, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candleSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1177.90002
+        y: 486
+        width: 348
+        height: 457
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candleSprites_4
+      rect:
+        serializedVersion: 2
+        x: 4.4000001
+        y: 15.1999998
+        width: 348
+        height: 457
+      alignment: 0
+      pivot: {x: .49999997, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candleSprites_5
+      rect:
+        serializedVersion: 2
+        x: 398.899994
+        y: 15.1999998
+        width: 348
+        height: 457
+      alignment: 0
+      pivot: {x: .50000006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candleSprites_6
+      rect:
+        serializedVersion: 2
+        x: 790.700012
+        y: 15.1999998
+        width: 348
+        height: 457
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candleSprites_7
+      rect:
+        serializedVersion: 2
+        x: 1178.19995
+        y: 15.1999998
+        width: 348
+        height: 457
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

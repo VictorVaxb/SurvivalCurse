@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 14a8ee2db211ace43993d06deacb7aee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hojasSprites
+    21300002: hojasSprites_0
+    21300004: hojasSprites_1
+    21300006: hojasSprites_2
+    21300008: hojasSprites_3
+    21300010: hojasSprites_4
+    21300012: hojasSprites_5
+    21300014: hojasSprites_6
+    21300016: hojasSprites_7
+    21300018: hojasSprites_8
+    21300020: hojasSprites_9
+    21300022: hojasSprites_10
+    21300024: hojasSprites_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: hojasSprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 402
+        width: 288
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 402
+        width: 288
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 403
+        width: 289
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_3
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 402
+        width: 288
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 203
+        width: 293
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 202
+        width: 291
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 203
+        width: 286
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 204
+        width: 291
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 292
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4
+        width: 286
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 6
+        width: 285
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hojasSprites_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 7
+        width: 289
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

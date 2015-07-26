@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 17a1e5ab0f182a344b07cfa46ecad01a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crowSprites
+    21300002: crowSprites_0
+    21300004: crowSprites_1
+    21300006: crowSprites_2
+    21300008: crowSprites_3
+    21300010: crowSprites_4
+    21300012: crowSprites_5
+    21300014: crowSprites_6
+    21300016: crowSprites_7
+    21300018: crowSprites_8
+    21300020: crowSprites_9
+    21300022: crowSprites_10
+    21300024: crowSprites_11
+    21300026: crowSprites_12
+    21300028: crowSprites_13
+    21300030: crowSprites_14
+    21300032: crowSprites_15
+    21300034: crowSprites_16
+    21300036: crowSprites_17
+    21300038: crowSprites_18
+    21300040: crowSprites_19
+    21300042: crowSprites_20
+    21300044: crowSprites_21
+    21300046: crowSprites_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 130
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 256
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: crowSprites_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1859
+        width: 473
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1860
+        width: 492
+        height: 346
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1861
+        width: 508
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1860
+        width: 521
+        height: 317
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_4
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1861
+        width: 521
+        height: 316
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_5
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1367
+        width: 474
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1372
+        width: 480
+        height: 332
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_7
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1410
+        width: 486
+        height: 325
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_8
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1414
+        width: 501
+        height: 319
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1447
+        width: 514
+        height: 316
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 985
+        width: 466
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 990
+        width: 501
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_12
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 951
+        width: 519
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_13
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 938
+        width: 543
+        height: 358
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_14
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 902
+        width: 554
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_15
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 549
+        width: 561
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_16
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 478
+        width: 560
+        height: 426
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_17
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 624
+        width: 555
+        height: 282
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 547
+        width: 560
+        height: 314
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 560
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 143
+        width: 557
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_21
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 42
+        width: 559
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crowSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 41
+        width: 552
+        height: 424
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

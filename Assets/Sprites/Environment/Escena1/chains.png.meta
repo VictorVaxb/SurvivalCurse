@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 6095788bc02781c46be8faace6018487
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 45
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: chains_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 267
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 499
+        width: 266
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 499
+        width: 266
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 499
+        width: 266
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 267
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 250
+        width: 266
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 250
+        width: 266
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_7
+      rect:
+        serializedVersion: 2
+        x: 808.200012
+        y: 250
+        width: 266
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 267
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 266
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_10
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 266
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chains_11
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 0
+        width: 267
+        height: 247
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

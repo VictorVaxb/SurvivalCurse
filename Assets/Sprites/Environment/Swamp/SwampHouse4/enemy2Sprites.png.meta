@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 3c22bbd46d715d548ab94fa46be6446e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy2Sprites
+    21300002: body
+    21300004: head
+    21300006: larm
+    21300008: enemy2Sprites_3
+    21300010: lhand
+    21300012: rarm
+    21300014: rhand
+    21300016: dress3
+    21300018: lhombro
+    21300020: rhombro
+    21300022: cuello
+    21300024: dress2
+    21300026: dress1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 230
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 924
+        width: 527
+        height: 481
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 924
+        width: 745
+        height: 476
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: larm
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1234
+        width: 605
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy2Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1155
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lhand
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 927
+        width: 598
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rarm
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 445
+        width: 205
+        height: 388
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rhand
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 462
+        width: 280
+        height: 351
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dress3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 546
+        width: 489
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lhombro
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 669
+        width: 383
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rhombro
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 83
+        width: 187
+        height: 383
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuello
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 767
+        height: 363
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dress2
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 63
+        width: 369
+        height: 528
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dress1
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 33
+        width: 585
+        height: 502
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

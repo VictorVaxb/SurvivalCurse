@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: e2c144940edbae24fa6e97846b87cda1
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy1Sprites 1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 368
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_1
+      rect:
+        serializedVersion: 2
+        x: 140.300003
+        y: 368
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_2
+      rect:
+        serializedVersion: 2
+        x: 265.100006
+        y: 368
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_3
+      rect:
+        serializedVersion: 2
+        x: 389.100006
+        y: 368
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_4
+      rect:
+        serializedVersion: 2
+        x: 519.599976
+        y: 368
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_5
+      rect:
+        serializedVersion: 2
+        x: 643.099976
+        y: 368
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 188
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_7
+      rect:
+        serializedVersion: 2
+        x: 161.899994
+        y: 188
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_8
+      rect:
+        serializedVersion: 2
+        x: 288.100006
+        y: 188
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_9
+      rect:
+        serializedVersion: 2
+        x: 415.899994
+        y: 188
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_10
+      rect:
+        serializedVersion: 2
+        x: 544.900024
+        y: 188
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_11
+      rect:
+        serializedVersion: 2
+        x: 672.799988
+        y: 188
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 34
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_13
+      rect:
+        serializedVersion: 2
+        x: 160.800003
+        y: 34
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_14
+      rect:
+        serializedVersion: 2
+        x: 288.200012
+        y: 34
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_15
+      rect:
+        serializedVersion: 2
+        x: 433.399994
+        y: 34
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_16
+      rect:
+        serializedVersion: 2
+        x: 582.299988
+        y: 34
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_17
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 34
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1Sprites 1_18
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 370
+        width: 107
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
